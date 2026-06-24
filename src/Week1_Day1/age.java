@@ -1,4 +1,4 @@
-package Day1;
+package  Week1_Day1;
 
 public class age {
 public static void main(String[] args) {
