@@ -20,5 +20,6 @@ public static void main(String[] args) {
        System.out.println("Remainder = " + (num1 % num2));
 	 
        sc.close();
+	
 }
 }
